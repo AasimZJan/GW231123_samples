@@ -1,7 +1,7 @@
 <h1 align="center">Measuring Eccentricity and Addressing Waveform Systematics in GW231123</h1>
 
 <p align="center">
-<strong>Aasim Jan<sup>1</sup>, Sophia Nicolellao<sup>1</sup>, Deirdre Shoemaker<sup>1</sup>, Richard O'Shaughnessy<sup>2</sup></strong>
+<strong>Aasim Jan<sup>1</sup>, Sophia Nicolella<sup>1</sup>, Deirdre Shoemaker<sup>1</sup>, Richard O'Shaughnessy<sup>2</sup></strong>
 </p>
 
 <p align="center">
